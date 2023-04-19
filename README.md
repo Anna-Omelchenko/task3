@@ -1,3 +1,4 @@
+theme: merlot
 # All about me!)
 
 ## Introduction
